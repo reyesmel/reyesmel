@@ -5,9 +5,9 @@
 
 ### Hi, I'm Melissa 👋
 
-- 👩‍💻 Data Analyst + Communications Specialist 
+- 👩‍💻 Data Analyst + Communications Specialist
+- 👩‍🎓 Communication Data Science MS graduate from USC
 - 🌱 Currently learning about dataviz
-- 👩‍🎓 Communication Data Science MS
 - 📫 How to reach me: melirey26@berkeley.edu
 - ⚡ Fun fact: I like to read about history, art and design.
 
