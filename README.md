@@ -7,8 +7,7 @@
 
 - 👩‍💻 Data Analyst + Communications Specialist 
 - 🌱 Currently learning about dataviz
-- 👩‍🎓 Communication Data Science MS | USC
-- 👩‍🎓 Cognitive Science + Art BA | UC Berkeley
+- 👩‍🎓 Communication Data Science MS
 - 📫 How to reach me: melirey26@berkeley.edu
 - ⚡ Fun fact: I like to read about history, art and design.
 
