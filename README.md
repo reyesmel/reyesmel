@@ -17,7 +17,7 @@
 - 📚 USC + UC Berkeley
 - 🌱 Currently learning about dataviz
 - 📫 How to reach me: melirey26@berkeley.edu
-- Check out my [creative portfolio](https://tinyurl.com/MelsCreativePortfolio)
+- 🖼️ Check out my [creative portfolio](https://tinyurl.com/MelsCreativePortfolio)
 - ⚡ Fun fact: I like to read about history, art and design.
 
 ### 💻 Tech Stack
