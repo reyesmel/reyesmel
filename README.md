@@ -18,7 +18,7 @@
 - 🌱 Currently learning about dataviz
 - 📫 How to reach me: melirey26@berkeley.edu
 - 🖼️ Check out my [creative portfolio](https://tinyurl.com/MelsCreativePortfolio)
-- ⚡ Fun fact: I like to read about history, art and design.
+- ⚡ Fun fact: Data and storytelling helped keep me housed once upon a time.
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
