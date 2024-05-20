@@ -13,6 +13,7 @@
 # Hi, I'm Melissa 👋
 
 - 👩‍💻 Data Analyst + Communications Specialist
+- 🔎 Growing focus on Machine Learning
 - 👩‍🎓 Communication Data Science MS | Cognitive Science + Art BA
 - 📚 USC + UC Berkeley
 - 🌱 Currently learning about Power BI
