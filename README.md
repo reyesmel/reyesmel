@@ -16,7 +16,6 @@
 - 🔎 Growing focus on Machine Learning
 - 👩‍🎓 Communication Data Science MS | Cognitive Science + Art BA
 - 📚 USC + UC Berkeley
-- 🌱 Currently learning about Power BI
 - 📫 How to reach me: melirey26@berkeley.edu
 - 🖼️ Check out my [creative portfolio](https://tinyurl.com/MelsCreativePortfolio)
 - ⚡ Fun fact: Data and storytelling helped keep me housed once upon a time.
